@@ -1,0 +1,17 @@
+.containerSearch {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+	gap: 2vh;
+}
+
+.containerListHeroes {
+	max-height: 70vh;
+	overflow-y: auto;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	gap: 2vh;
+}
+
